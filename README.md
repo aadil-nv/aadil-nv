@@ -1,30 +1,88 @@
-<h1 align="center">Hi 👋, I'm muhammed aadil nv</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadil-nv&label=Profile%20views&color=0e75b6&style=flat" alt="aadil-nv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadil-nv" alt="aadil-nv" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **myAcademy**
-
-- 💬 Ask me about **MongoDB,Express,React,NodeJS,NextJS,DSA,AWS,**
-
-- 📫 How to reach me **adilev2000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammed aadil nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed aadil nv" height="30" width="40" /></a>
-<a href="https://instagram.com/aadil_nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadil_nv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aadil_nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadil_nv" height="30" width="40" /></a>
+<!-- ===================== TITLE SCREEN ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=900&color=9BBC0F&background=0F380FFF&center=true&vCenter=true&width=720&height=90&lines=PLAYER+1%3A+MUHAMMED+AADIL+NV;CLASS%3A+FULL+STACK+DEVELOPER;PRESS+START+TO+CONNECT+%E2%96%B6" alt="title screen" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LEVEL-FULL%20STACK-9bbc0f?style=for-the-badge&labelColor=0f380f" alt="level" />
+  <img src="https://img.shields.io/badge/REGION-INDIA-9bbc0f?style=for-the-badge&labelColor=0f380f" alt="region" />
+  <img src="https://komarev.com/ghpvc/?username=aadil-nv&label=PLAYERS%20VISITED&color=9bbc0f&style=for-the-badge" alt="visitors" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadil-nv&show_icons=true&locale=en&layout=compact" alt="aadil-nv" /></p>
+<!-- ===================== CHARACTER SHEET ===================== -->
+<h2 align="center">🎮 Character Sheet</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadil-nv&show_icons=true&locale=en" alt="aadil-nv" /></p>
+```text
+╔══════════════════════════════════════════════════════╗
+║  NAME ........ Muhammed Aadil NV                     ║
+║  CLASS ....... Full Stack Developer                  ║
+║  GUILD ....... MERN                                  ║
+║  HOME ........ India                                 ║
+╠══════════════════════════════════════════════════════╣
+║  FRONTEND   ████████████████████░░░░   React/Next.js ║
+║  BACKEND    ██████████████████░░░░░░   Node/Express  ║
+║  DATABASE   ████████████████░░░░░░░░   MongoDB/SQL   ║
+║  CLOUD      ██████████████░░░░░░░░░░   AWS/Docker    ║
+║  DSA        ████████████░░░░░░░░░░░░   Leveling up…  ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadil-nv&" alt="aadil-nv" /></p>
+<!-- ===================== INVENTORY ===================== -->
+<h2 align="center">🎒 Inventory</h2>
+
+<p align="center">
+  <b>🗡️ WEAPONS (Languages)</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,rust,html,css" alt="languages" />
+</p>
+
+<p align="center">
+  <b>🛡️ ARMOR (Frontend)</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,babel" alt="frontend" />
+</p>
+
+<p align="center">
+  <b>🔮 MAGIC (Backend &amp; Data)</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,rabbitmq,mongodb,postgres,mysql,firebase" alt="backend" />
+</p>
+
+<p align="center">
+  <b>🏰 STRONGHOLD (Cloud &amp; DevOps)</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,nginx,git,postman,figma" alt="devops" />
+</p>
+
+<!-- ===================== PLAYER STATS ===================== -->
+<h2 align="center">📊 Player Stats</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadil-nv&show_icons=true&hide_border=true&count_private=true&bg_color=0f380f&title_color=9bbc0f&text_color=8bac0f&icon_color=9bbc0f" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadil-nv&layout=compact&hide_border=true&bg_color=0f380f&title_color=9bbc0f&text_color=8bac0f" alt="languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aadil-nv&hide_border=true&background=0F380F&ring=9BBC0F&fire=9BBC0F&currStreakNum=9BBC0F&sideNums=9BBC0F&currStreakLabel=9BBC0F&sideLabels=8BAC0F&dates=306230&stroke=306230" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadil-nv&bg_color=0f380f&color=8bac0f&line=9bbc0f&point=ffffff&area=true&area_color=306230&hide_border=true&custom_title=XP%20Gained%20Over%20Time" alt="xp graph" />
+</p>
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+<h2 align="center">🏆 Achievements Unlocked</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aadil-nv&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+</p>
+
+<!-- ===================== MULTIPLAYER ===================== -->
+<h2 align="center">🕹️ Join My Party</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammed-aadil-nv"><img src="https://img.shields.io/badge/LINKEDIN-0f380f?style=for-the-badge&logo=linkedin&logoColor=9bbc0f" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/aadil_nv"><img src="https://img.shields.io/badge/INSTAGRAM-0f380f?style=for-the-badge&logo=instagram&logoColor=9bbc0f" alt="Instagram" /></a>
+  <a href="https://leetcode.com/aadil_nv"><img src="https://img.shields.io/badge/LEETCODE-0f380f?style=for-the-badge&logo=leetcode&logoColor=9bbc0f" alt="LeetCode" /></a>
+  <a href="mailto:adilev2000@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0f380f?style=for-the-badge&logo=gmail&logoColor=9bbc0f" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=400&color=9BBC0F&center=true&vCenter=true&width=500&lines=GAME+SAVED.+THANKS+FOR+PLAYING!;CONTINUE%3F+%E2%96%B6+YES++%C2%B7++NO" alt="game saved" />
+</p>
